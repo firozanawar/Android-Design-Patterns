@@ -1,4 +1,4 @@
-package com.firozanwar.designpattern.Adapter
+package com.firozanwar.designpattern.Adapter.adapter1
 
 class Sparrow : Bird {
 
